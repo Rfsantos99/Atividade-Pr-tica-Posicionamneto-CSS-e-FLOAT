@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    background-color: grey;
+}
+
+div.balao1 {
+    background-color: rgb(28, 28, 28);
+    width: 95%;
+    height: 150px;
+    margin: 30px auto 0 auto;
+    border-radius: 25px;
+    overflow: hidden;
+}
+
+span {
+    color: white;
+    margin: 16px;
+}
+
+div.balao2 {
+    background-color: rgb(28, 28, 28);
+    width: 95%;
+    height: 150px;
+    margin: 30px auto 0 auto;
+    border: 1px solid red;
+    overflow: auto;
+}

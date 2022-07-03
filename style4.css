@@ -1,0 +1,118 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    background-color: gray;
+}
+
+.div1 {
+    position: fixed;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(28, 28, 28);
+    left: 0;
+    top: 0;
+}
+
+.div2 {
+    position: fixed;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(28, 28, 28);
+    top: 0;
+    left: 105px;
+}
+
+.div3 {
+    position: fixed;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(28, 28, 28);
+    top: 0;
+    left: 210px;
+}
+
+.div4 {
+    position: fixed;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(28, 28, 28);
+    top: 105px;
+    left: 0;
+}
+
+.div5 {
+    position: fixed;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(28, 28, 28);
+    top: 105px;
+    left: 105px;
+}
+
+.div6 {
+    position: fixed;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(28, 28, 28);
+    top: 210px;
+    left: 0;
+}
+
+.div7 {
+    position: fixed;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(28, 28, 28);
+    right: 0;
+    bottom: 0;
+}
+
+.div8 {
+    position: fixed;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(28, 28, 28);
+    right: 105px;
+    bottom: 0;
+}
+
+.div9 {
+    position: fixed;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(28, 28, 28);
+    right: 210px;
+    bottom: 0;
+}
+
+.div10 {
+    position: fixed;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(28, 28, 28);
+    right: 0;
+    bottom: 105px
+}
+
+.div11 {
+    position: fixed;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(28, 28, 28);
+    right: 105px;
+    bottom: 105px;
+}
+
+.div12 {
+    position: fixed;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(28, 28, 28);
+    right: 0;
+    bottom: 210px;
+}
